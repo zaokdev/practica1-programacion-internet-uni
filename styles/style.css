@@ -1,0 +1,12 @@
+.img-b {
+    filter: brightness(30%);
+}
+
+#hero-bg {
+    background-image: url("../assets/3148315.jpg");
+    height: 70dvh;
+}
+
+.bg-secondary {
+    background-color: #374151;
+}
